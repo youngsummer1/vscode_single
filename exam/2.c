@@ -149,11 +149,13 @@
 //     printf("%d",sum);
 //     return 0;
 // }
-#define N 1e4+7
+// #define N 1e4+7
+#define N 3000
+
 int main(){
     // int a=2,b;
     // b=pow(a,5);
     // printf("%d",b);
-    printf("%f",N);
+    printf("%d",N);
     return 0;
 }
