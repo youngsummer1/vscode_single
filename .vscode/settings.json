@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "stdio.h": "c",
-        "23.10.15.C": "cpp"
+        "23.10.15.C": "cpp",
+        "24.1.20.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "enabled"
 }
